@@ -82,5 +82,17 @@
     "tipo" : "Paseo",
     "precio" : 95000,
     "vendida" : "no"
+    },
+    {
+    "id" : 8,
+    "marca" : "SMP",
+    "modelo" : "Legal",
+    "rodado" : 18,
+    "anio" : 2023,
+    "color": "negra",
+    "peso" : 15,
+    "tipo" : "Ruta",
+    "precio" : 95700,
+    "vendida" : "sí"
     }
 ]
